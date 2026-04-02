@@ -1,1 +1,1 @@
-Hello from CONFLICT-TEST branch!
+Hello from the CONFLICT-TEST branch!
