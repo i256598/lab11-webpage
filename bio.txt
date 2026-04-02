@@ -1,4 +1,4 @@
-This is Hamza Ansar and Hamza Saeed's group and hamza hasan
+This is Hamza Ansar and hamza hasan group
 .
 We are CE students at NUCES Islamabad.
 We learned Git branching and collaboration in this lab.
