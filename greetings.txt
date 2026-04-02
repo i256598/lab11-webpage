@@ -1,1 +1,5 @@
+<<<<<<< conflict-test
 Hello from the CONFLICT-TEST branch!
+=======
+Hello from the MAIN branch!
+>>>>>>> main
